@@ -3,7 +3,7 @@
 
 ### About Me:
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Frontend+developer.;I+love+writing+React+codes.;I+am+a+web+designer.;I+can+help+you+with+your+project.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+FullStack+developer.;I+love+writing+codes.;I+am+a+web+designer.;I+can+help+you+with+your+project.)](https://git.io/typing-svg)
 
 
 <p align="left"> <img
