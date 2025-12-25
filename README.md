@@ -18,11 +18,11 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCent
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking forward to **MERN Stack projects.**
+- 👯 I’m looking forward to **MERN/.Net/PLSQL Stack projects.**
 
 - 📝 About me : Always ready to learn.
 
-- 💬 Ask me about **react and Web Development.**
+- 💬 Ask me about **Data Engineering and Web Development.**
 
 - ⚡ Fun fact: **I think I am quite funny.**
 
